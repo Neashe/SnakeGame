@@ -10,10 +10,17 @@ Snake game made for C++ course.
 
 To run the game, [raylib](https://www.raylib.com/) library is needed.
 
-## Controls
+## How to play
 
 - Keyboard arrows: Control the snake's movement.
 - Spacebar: Pause the game.
+
+Game speed can be changed at the start of each game or while game is paused
+There are four levels:
+1. slow
+2. easy
+3. normal
+4. hard
 
 ## Graphics
 
